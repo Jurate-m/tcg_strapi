@@ -1,0 +1,29 @@
+{
+   "active" : [
+    {
+      "title": "Software Developer",
+      "qualification": "Level 4",
+      "employer_link": "/employer-software-dev",
+      "apprentice_link": "/applicant-software-dev"
+    }
+  ],
+
+  "coming_soon" : [
+    {
+      "title": "Digital Marketing",
+      "qualification": "Level 4"
+    },
+    {
+      "title": "Cyber Security",
+      "qualification": "Level 4"
+    },
+    {
+      "title": "Data Analyst",
+      "qualification": "Level 4"
+    },
+    {
+      "title": "Software Tester",
+      "qualification": "Level 4"
+    }
+  ]
+}
